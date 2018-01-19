@@ -26,6 +26,6 @@
   "homepage": "https://github.com/mqy1023/rn-wheel-picker-china-region#readme",
   "dependencies": {
     "prop-types": "^15.6.0",
-    "react-native-picker-android": "git+https://github.com/jrwm/react-native-picker-android.git"
+    "react-native-picker-android": "git+https://github.com/279291a/react-native-picker-android.git"
   }
 }
